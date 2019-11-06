@@ -1,3 +1,5 @@
 print('hello world')
-Circumference=3.14*2*Radius
-SurfaceArea=3.14*Radius*Radius
+def Circumference(Radius)
+    Circumference=3.14*2*Radius
+def SurfaceArea(Radius)
+    SurfaceArea=3.14*Radius*Radius
