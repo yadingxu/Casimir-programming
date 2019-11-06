@@ -1,3 +1,4 @@
 import test
 print("hello")
-test.Circumference(3)
+print("Circumference = ",test.Circumference(3))
+print("SurfaceArea = ",test.SurfaceArea(3))
